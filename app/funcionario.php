@@ -1,5 +1,5 @@
 <?php
-class Dentista extends Pessoa{
+class Funcionario extends Pessoa{
     public $cro;
     public $especialidade;
 

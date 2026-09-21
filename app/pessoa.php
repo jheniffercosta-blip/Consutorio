@@ -5,9 +5,9 @@ abstract class Pessoa{
     public $cpf;
     public $telefone;
     public $email;
-    public $dataNascimento;
+    public $data_nascimento;
     public $endereço;
-
+    
 }
 
 ?>
